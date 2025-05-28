@@ -504,7 +504,7 @@
 </head>
 <body>
     <!-- Добавляем стрелку сразу после открытия body -->
-    <div class="back-arrow" onclick="window.location.href='https://negociowin.ru/xxx/newnegocio'">
+    <div class="back-arrow" onclick="window.location.href='https://kor1k1.github.io/alexander_webapp/''https://negociowin.ru/xxx/newnegocio'">
         <span class="material-icons">arrow_back</span>
     </div>
 

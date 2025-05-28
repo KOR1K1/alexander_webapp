@@ -95,7 +95,7 @@ body {
 
 #gradient-background {
   position: absolute;
-  top: 22rem;
+  top: 20rem;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 70rem; /* ширина в rem */
@@ -253,7 +253,7 @@ button#flip:disabled {
 
 .logo-container {
   position: absolute;
-  top: 120px;
+  top: 90px;
   left: 20px;
   z-index: 2;
 }
